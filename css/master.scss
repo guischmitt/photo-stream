@@ -296,6 +296,12 @@ body {
 			}
 		}
 		
+		&.twitter {
+			a {
+				background-image: url(../img/icon-twitter.svg);
+			}
+		}
+		
 		&.rss {
 			a {
 				background-image: url(../img/icon-rss.svg);
