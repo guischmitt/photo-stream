@@ -23,7 +23,7 @@ email: guischmitt@gmail.com
 author:
   name: Guilherme Schmitt
   email: guischmitt@gmail.com
-  website: https://guischmitt.com
+  website: http://guischmitt.com
 description: >- # this means to ignore newlines until "baseurl:"
   @guischmitt minimalistic, self-hosted photo stream.
 baseurl: "http://guischmitt.com/" # the subpath of your site, e.g. /blog
