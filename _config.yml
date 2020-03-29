@@ -26,8 +26,8 @@ author:
   website: https://guischmitt.com
 description: >- # this means to ignore newlines until "baseurl:"
   @guischmitt minimalistic, self-hosted photo stream.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maxvoltar.photo/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "http://guischmitt.com/" # the subpath of your site, e.g. /blog
+url: "http://guischmitt.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guischmitt
 github_username: guischmitt
 instagram_username: guischmitt
@@ -46,7 +46,7 @@ image_processing:
   thumbnail:
     source: photos/original
     destination: photos/thumbnail
-    resize_to_limit: [640, 640]
+    resize_to_limit: [1024, 1024]
     saver:
       strip: true
   tint:
