@@ -302,6 +302,12 @@ body {
 			}
 		}
 		
+		&.instagram {
+			a {
+				background-image: url(../img/icon-instagram.svg);
+			}
+		}
+		
 		&.rss {
 			a {
 				background-image: url(../img/icon-rss.svg);
