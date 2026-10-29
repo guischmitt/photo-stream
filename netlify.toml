@@ -1,0 +1,7 @@
+[build]
+  command = "bundle exec jekyll build --trace"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.4.7"
+  LANG = "en_US.UTF-8"
